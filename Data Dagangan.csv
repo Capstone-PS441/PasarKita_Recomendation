@@ -1,0 +1,123 @@
+ID,Img,Nama,Kategori,Lokasi,Harga,Satuan,Nama toko
+1,https://res.cloudinary.com/sensaifahmi1/image/upload/v1685457235/ayam%20potong.jpg,Daging ayam,Daging,Pasar Landungsari,38400,1 kg,Toko Bu Siti
+2,https://res.cloudinary.com/sensaifahmi1/image/upload/v1685457480/Bayam.jpg,Bayam,Sayuran,Pasar Karangploso,3500,ikat,Toko Abi Jaya
+3,https://res.cloudinary.com/sensaifahmi1/image/upload/v1685457760/bawang%20merah.jpg,Bawang merah,Sayuran,Pasar Landungsari,42100,1 kg,Toko Anggun
+4,https://res.cloudinary.com/dlzibdtam/image/upload/v1686487558/088090200_1511410761-Susu-Soya-dan-Susu-Sapi-Samakah-Kualitasnya_mzqjml.webp,Susu Sapi,Minuman,Pasar Karangploso,9000,1 liter,Toko Pak Toto
+5,https://res.cloudinary.com/dlzibdtam/image/upload/v1686487788/1200px-Bruder_cake_Manado_vzuelw.jpg,Roti Bolu,Kue,Pasar Landungsari,7000,pcs,Toko Sejahtera
+6,https://res.cloudinary.com/dlzibdtam/image/upload/v1686487863/mozarellali-sosis--332c-_hxnnt2.jpg,Sosis,Makanan,Pasar Landungsari,5000,Bungkus,Toko Sejahtera
+7,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488008/61oN4gThjLL_nldivh.jpg,Mentega,Bahan & Bumbu makanan,Pasar Karangploso,24500,1 kg,Pak Mulyadi
+8,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488013/800px-Milk_chocolate_kgaaij.jpg,Cokelat,Makanan,Pasar Karangploso,40000,Bungkus,Toko Pak Toto
+9,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488043/360_F_329485431_d7xO8qxV3sEc8DPhyKEGsXLzAUD9DZph_beqfye.jpg,Kunyit,Rempah - rempah,Pasar Landungsari,45000,1 kg,Toko Anggun
+10,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488153/big-and-small-mineral-water-in-plastic-bottle-white-background_nw53cd.jpg,Air mineral,Minuman,Pasar Landungsari,5000,1 liter,Toko Anggun
+11,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488157/How-to-Make-Yogurt-7_saur5h.jpg,Yogurt,Minuman,Pasar Landungsari,8000,Botol,Toko Anggun
+12,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488163/31_ugkgkr.jpg,Jahe,Rempah - rempah,Pasar Landungsari,12000,1 kg,Toko Bu Siti
+13,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488216/Resep-Roti-Pisang-Coklat-_ph2xy2.jpg,Roti coklat,Makanan,Pasar Landungsari,3000,Bungkus,Toko Anggun
+14,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488235/best-cardamom-siam-cardamom-kapulaga-isolated-white-background-dried-seeds-dried-herb-spice-best-cardamom-siam-cardamom-221574989_qkxdb9.jpg,Kapulaga,Rempah - rempah,Pasar Landungsari,50000,1 kg,Toko Bu Siti
+15,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488264/640px-Anadara_granosa_qc6ze3.jpg,Kerang,Olahan Laut,Pasar Landungsari,22000,1 kg,Toko Sejahtera
+16,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488298/Butterkicap-Blueberry-e1524010492992-1024x570_kh9ojw.webp,Beri,Buah - buahan,Pasar Landungsari,81000,1 kg,Toko Anggun
+17,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488521/kopi-luwak-civet-coffee-is-one-world-s-most-expensive-low-production-varieties-coffee-coffee-beans-excreted-by-civet_61243-452_ehsjhq.jpg,Kopi,Bahan & Bumbu makanan,Pasar Landungsari,30000,100 gram,Toko Bu Siti
+18,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488536/20200512_063506_2048x_u3llzn.jpg,Wortel,Sayuran,Pasar Landungsari,16000,1 kg,Toko Budiman
+19,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488718/depositphotos_40435305-stock-photo-organic-sharp-cheddar-cheese_seu5ti.webp,Keju,Bahan & Bumbu makanan,Pasar Karangploso,110000,1 kg,Pak Mulyadi
+20,https://res.cloudinary.com/dlzibdtam/image/upload/v1686488929/kangkung-goreng-2_yibhhv.jpg,Kangkung,Sayuran,Pasar Karangploso,1500,ikat,Toko Sembako Dwi
+21,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489647/F519BC6C-9C07-4501-AFD9-6DE74DD0D899-500x375_kcflie.jpg,Frozen Food,Makanan,Pasar Landungsari,35000,1 kg,Toko Anggun
+22,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489036/800px-Aneka_rempah_dan_bumbu_dapur_fqtuiy.jpg,Rempah rempah,Rempah - rempah,Pasar Landungsari,33500,1 kg,Toko Anggun
+23,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489055/cucumber-mentimun-timun-isolated-on-260nw-2297164961_pigfra.jpg,Mentimun,Sayuran,Pasar Landungsari,12000,1 kg,Toko Budiman
+24,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489088/91iFMPtXsIL_i40pwl.jpg,Soda,Minuman,Pasar Karangploso,5000,Botol,Toko Sembako Dwi
+25,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489100/pngtree-eggplant-purple-ingredient-png-image_3351558_af1y3t.jpg,Terong,Sayuran,Pasar Karangploso,16100,1 kg,Pak Mulyadi
+26,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489127/resize_az4clb.webp,Margarin,Bahan & Bumbu makanan,Pasar Karangploso,24500,1 kg,Toko Abi Jaya
+27,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489180/front_id.4.full_i3g3or.jpg,Susu Kental Manis,Bahan & Bumbu makanan,Pasar Landungsari,3000,pcs,Toko Budiman
+28,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489181/ubi-kentang-600x600_xjwcod.jpg,Kentang,Sayuran,Pasar Karangploso,9000,1 kg,Pak Mulyadi
+29,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489205/1000_F_271230820_r9UXAnK0zCOpbFR4iHpVEQuJ2maLHiuy_h0fvnj.jpg,Kacang telur,Makanan,Pasar Landungsari,29000,1 kg,Toko Anggun
+30,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489207/52-f_mswyqp.jpg,Selada,Sayuran,Pasar Landungsari,24900,1 kg,Toko Budiman
+31,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489227/bok-choy-pak-choi-pakcoy-vegetable-isolated-white-background-sawi-sendok_558534-591_j8qbew.jpg,Sawi,Sayuran,Pasar Landungsari,17000,1 kg,Toko Budiman
+32,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489232/4f9d02f6492961bc1491bea10f53990a_gksx5h.jpg,Susu sapi UHT,Minuman,Pasar Landungsari,17000,1 liter,Toko Sejahtera
+33,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489259/81q0mgR_xsL._AC_UF894_1000_QL80__idzsql.jpg,Permen,Makanan,Pasar Landungsari,14000,Bungkus,Toko Sejahtera
+34,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489266/v4-460px-Cook-Peas-Step-8-Version-5_n4puc2.jpg,Kacang polong,Sayuran,Pasar Karangploso,32000,1 kg,Toko Abi Jaya
+35,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489290/SWEET-CORN-JAGUNG-MANIS-2PCS_u3odgi.jpg,Jagung,Sayuran,Pasar Karangploso,4200,1 kg,Toko Abi Jaya
+36,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489290/1884290885_580x_nabgdz.jpg,Bubur instan,Makanan,Pasar Landungsari,9500,pcs,Toko Budiman
+37,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489326/fresh-bitter-melon-or-pare-on-white-bowl-healty-vegetable-with-contains-many-nutrients-that_dlvas9.jpg,Pare,Sayuran,Pasar Karangploso,3500,1 kg,Toko Sembako Dwi
+38,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489322/Garlic_vizjsw.jpg,Bawang putih,Sayuran,Pasar Karangploso,30000,1 kg,Toko Abi Jaya
+39,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489360/82946dd1-ddec-4d2e-8cc8-ceb9b41f650c.7186df6406141c83b5b29187c4d9da51_inylok.jpg,Bawang bombai,Sayuran,Pasar Landungsari,32000,1 kg,Toko Sejahtera
+40,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489380/daun-singkong-or-leaves-of-cassava-tree-in-the-garden_y9k4nj.jpg,Daun singkong,Sayuran,Pasar Karangploso,7900,1 kg,Toko Pak Toto
+41,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489663/papaya-leaf-or-japanese-papaya-leaf-is-cnidoscolus-aconitifolius_hvuwfu.jpg,Daun Pepaya,Sayuran,Pasar Landungsari,11700,1 kg,Toko Anggun
+42,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489683/organic-fresh-green-celery-sticks-260nw-2014877927_ushcbt.jpg,Seledri,Sayuran,Pasar Karangploso,32000,1 kg,Toko Sembako Dwi
+43,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490008/17889_hhqqro.png,Cabai rawit,Sayuran,Pasar Karangploso,36500,1 kg,Toko Abi Jaya
+44,https://res.cloudinary.com/sensaifahmi1/image/upload/v1686405925/fresh-sliced-guava-leaves-jambu-260nw-1692079285_kqy5jd.jpg,Kecambah,Sayuran,Pasar Karangploso,7500,1 kg,Toko Sembako Dwi
+45,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489718/1643967250444-chives_dzexav.jpg,Kucai,Sayuran,Pasar Karangploso,23000,1 kg,Pak Mulyadi
+46,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489728/1612408364052_2043_tjillu.jpg,Lobak,Sayuran,Pasar Landungsari,10000,1 kg,Toko Bu Siti
+47,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489745/76ebec19e64354815af1f84f1c6c30a8_t1vosp.jpg,Daging sapi,Daging,Pasar Karangploso,120250,1 kg,Toko Abi Jaya
+48,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489753/mutton_boneinkambing_bertulang_1kg_1559278290_97653dbc_progressive_zhxiko.jpg,Daging kambing,Daging,Pasar Landungsari,130000,1 kg,Toko Budiman
+49,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489808/STH108-500x500_trzfmr.jpg,Minyak ,Bahan Bakar,Pasar Karangploso,13000,1 liter,Toko Pak Toto
+50,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489816/Baking-Soda-vs-Baking-Powder-FT-BLOG0622-f9d1ee8b0b854866944881eb4d25b594_p6v2kr.jpg,Baking powder,Bahan & Bumbu makanan,Pasar Landungsari,71200,1 kg,Toko Budiman
+51,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489837/v4-460px-Cook-a-Duck-Step-6.jpg_l7k8sv.webp,Daging bebek,Daging,Pasar Landungsari,44000,1 kg,Toko Anggun
+52,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489845/traditional-cake-indonesia-nastar-260nw-651890608_mqase6.jpg,Nastar,Makanan,Pasar Landungsari,125000,1 kg,Toko Sejahtera
+53,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489879/Baked-Salmon-1_nog4y9.jpg,Salmon,Olahan Laut,Pasar Karangploso,290000,1 kg,Pak Mulyadi
+54,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489902/tuna3_eraqdr.jpg,Tuna,Olahan Laut,Pasar Karangploso,110000,1 kg,Toko Sembako Dwi
+55,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489906/1627882753309_rkab6l.jpg,Cuka,Bahan & Bumbu makanan,Pasar Landungsari,15500,650 ml,Toko Sejahtera
+56,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489924/colorful-frozen-fish-in-ice-at-the-seafood-market_xvw4ar.jpg,Ikan Beku,Olahan Laut,Pasar Landungsari,26000,1 kg,Toko Sejahtera
+57,https://res.cloudinary.com/dlzibdtam/image/upload/v1686489936/Hati-Hati-Pemanis-Buatan-Dapat-Memicu-Diabetes_zotzhr.jpg,Pemanis buatan,Bahan & Bumbu makanan,Pasar Karangploso,27500,100 gram,Pak Mulyadi
+58,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490056/fresh-milk-fish-on-black-260nw-2210712717_exhoow.jpg,Ikan Bandeng,Olahan Laut,Pasar Karangploso,49000,1 kg,Toko Pak Toto
+59,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490059/IMG_3414-300x300_francj.jpg,Ikan Kaleng,Olahan Laut,Pasar Landungsari,19000,425 gram,Toko Anggun
+60,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490073/stock-photo-nile-tilapia-ikan-nila-is-widely-consumed-in-indonesia-two-raw-nile-tilapias-on-top-of-a-white-1227302215_omixai.jpg,Ikan Nila,Olahan Laut,Pasar Landungsari,25000,1 kg,Toko Bu Siti
+61,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490098/Mamakari_by_Kossy_40FINEDAYS_in_Akabane_2C_Tokyo_qcpnpw.jpg,Ikan Sarden,Olahan Laut,Pasar Karangploso,40000,1 kg,Pak Mulyadi
+62,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490112/Euthyn_affin_101018-8111_tdp_pgtx3p.jpg,Ikan Tongkol,Olahan Laut,Pasar Karangploso,50000,1 kg,Pak Mulyadi
+63,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490120/raw-fresh-mackerel-fish-ikan-260nw-2287941909_kgsrrc.jpg,Ikan Kembung,Olahan Laut,Pasar Karangploso,54000,1 kg,Pak Mulyadi
+64,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490136/wafel_iron_ziho8g.jpg,Wafel,Makanan,Pasar Karangploso,15000,Bungkus,Pak Mulyadi
+65,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490144/Ikan_lele_dumbo__282_29_lmnwh8.jpg,Ikan Lele,Olahan Laut,Pasar Karangploso,32800,1 kg,Toko Abi Jaya
+66,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490155/fresh-raw-pacu-fish-ikan-bawal-fish-market-fresh-raw-pacu-fish-ikan-bawal-fish-market-194325478_irdwog.jpg,Ikan Bawal,Olahan Laut,Pasar Karangploso,46000,1 kg,Toko Sembako Dwi
+67,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490169/Almond-Cookies-Feature-1-480x270_l5nskv.jpg,Kue kering,Makanan,Pasar Karangploso,-,-,Toko Abi Jaya
+68,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490181/cengkeh-clove-on-wooden-spoon-260nw-1571904151_jrojvr.jpg,Cengkeh,rempah - rempah,Pasar Karangploso,120000,1 kg,Toko Pak Toto
+69,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490200/d01795414a87415465e60a9246838935_dpravr.jpg,Kopi instan,Bahan & Bumbu makanan,Pasar Landungsari,2000,pcs,Toko Budiman
+70,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490216/079920600_1595333370-mouse-bacon-2692474_1920_jwepsk.jpg,Marsmellow,Makanan,Pasar Landungsari,34000,1 kg,Toko Sejahtera
+71,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490238/tonkatsu-sauce_ux8hop.webp,Saus,Bahan & Bumbu makanan,Pasar Karangploso,25000,1 kg,Toko Pak Toto
+72,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490260/fresh-raw-prawns-udang-pancet-260nw-1914187204_kjmfxv.jpg,Udang,Olahan Laut,Pasar Karangploso,115000,1 kg,Toko Pak Toto
+73,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490294/8814_HomemadeChickenSoup_SoupLovingNicole_LSH-2000_vomryy.jpg,Sup,Makanan,Pasar Karangploso,10000,Bungkus,Pak Mulyadi
+74,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490295/kerang-hijau-saus-tiram-delicious-asian-style-green-mussel-with-spicy-seafood-sauce_16751-104_jwtzhj.jpg,Kerang hijau,Olahan Laut,Pasar Karangploso,20000,1 kg,Toko Sembako Dwi
+75,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490409/960330440_coxjhg.jpg,Sosis organik,Makanan,Pasar Karangploso,57000,1 kg,Toko Pak Toto
+76,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490414/prediction10_bk04zv.jpg,Keju lembut,Bahan & Bumbu makanan,Pasar Landungsari,60000,1 kg,Toko Anggun
+77,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490433/mayonnaise-swirl-isolated-on-white-background-cutout_sdeceb.jpg,Mayones,Bahan & Bumbu makanan,Pasar Landungsari,65000,1 kg,Toko Budiman
+78,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490439/D1C6386A-E7D7-4A3E-8C54-E77AC2CF0EF0_ybqpep.jpg,Biskuit,Makanan,Pasar Karangploso,16000,bungkus,Toko Abi Jaya
+79,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490455/birthday-cake-cirebon_ga4so2.jpg,Kue Tart,Makanan,Pasar Karangploso,65000,dm 10 cm,Toko Abi Jaya
+80,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490493/crabs_nz6jlj.jpg,Kepiting ,Olahan Laut,Pasar Karangploso,210000,1 kg,Toko Pak Toto
+81,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490493/oats-oatmeal-732x549-thumbnail_nldfhu.jpg,Oat,Makanan,Pasar Landungsari,30000,1 kg,Toko Budiman
+82,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490506/1200px-Portunus_sanguinolentus_zty4xg.jpg,Kepiting rajungan,Olahan Laut,Pasar Landungsari,185000,1 kg,Toko Bu Siti
+83,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490528/220716082641-01-orange-lobster-ripleys-aquarium_hcsqmc.jpg,Lobster,Olahan Laut,Pasar Karangploso,355000,1 kg,Toko Pak Toto
+84,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490531/breakfast-sereal-flakes-white-plate-260nw-1173322237_yn4a3k.jpg,Sereal,Makanan,Pasar Landungsari,100000,1 kg,Toko Sejahtera
+85,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490579/baby_gurita_hidup_import_1567879138_95233ad2_progressive_vk1eao.jpg,Gurita,Olahan Laut,Pasar Landungsari,80000,1 kg,Toko Sejahtera
+86,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490580/stock-photo-cumi-cumi-calamari-sotong-or-squid-close-up-view-of-full-body-parts-head-mantle-fin-stomach-1452905915_tkcgh1.jpg,Cumi-cumi,Olahan Laut,Pasar Karangploso,45800,1 kg,Pak Mulyadi
+87,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490602/6275586c1ce7d_ibehij.jpg,Daun Bawang,Sayuran,Pasar Landungsari,25000,1 kg,Toko Budiman
+88,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490604/pindang-fish-ikan-cue-in-basket-bamboo-pindang-is-a-boiling-method-of-fish-in-salt-and-certain-spices-2C957BH_bkklpt.jpg,Ikan Pindang,Olahan Laut,Pasar Landungsari,45000,1 kg,Toko Sejahtera
+89,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490621/360_F_448657009_BwUDoGIrAPgCUJtgdeg7d73tYwAED3SJ_awibuu.jpg,Belut,Olahan Laut,Pasar Karangploso,98000,1 kg,Toko Pak Toto
+90,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490629/avocado-butter-alpukat-mentega-fresh-260nw-2158293487_yikoyh.jpg,Alpukat,Buah - buahan,Pasar Karangploso,31000,1 kg,Pak Mulyadi
+91,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490664/13107_egrv8e.png,Apel,Buah - buahan,Pasar Landungsari,36000,1 kg,Toko Anggun
+92,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490658/18124_tzbrry.png,Pisang,Buah - buahan,Pasar Karangploso,20000,1 kg,Toko Abi Jaya
+93,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490683/buah-jeruk-diisolasi-dengan-latar-260nw-2291530919_gcaf9s.jpg,Jeruk,Buah - buahan,Pasar Landungsari,20000,1 kg,Toko Budiman
+94,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490687/360_F_47019117_0RZGygirvvfEzRVozJPEKb3moubpkWba_wtuils.jpg,Mangga,Buah - buahan,Pasar Landungsari,25500,1 kg,Toko Budiman
+95,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490703/italian-salad-1401-2_li2zcs.jpg,Salad,Makanan,Pasar Landungsari,25000,Bungkus,Toko Sejahtera
+96,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490709/1200px-Table_grapes_on_white_jdwasn.jpg,Anggur,Buah - buahan,Pasar Karangploso,70000,1 kg,Toko Abi Jaya
+97,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490750/klaten-indonesia-may-19-2020-260nw-1736810354_mujkgp.jpg,Sirup,Minuman,Pasar Karangploso,70000,1 liter,Toko Sembako Dwi
+98,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490735/Melon-whole_hbihzl.jpg,Melon,Buah - buahan,Pasar Karangploso,25000,1 kg,Toko Sembako Dwi
+99,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490758/selected-focus-strawberry-stroberi-on-260nw-2053040423_pdhgeg.jpg,Stroberi,Buah - buahan,Pasar Karangploso,120000,1 kg,Pak Mulyadi
+100,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490929/s-l1600_gjscng.jpg,Saus tomat,Bahan & Bumbu makanan,Pasar Landungsari,18000,1 buah,Toko Sejahtera
+101,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490955/pineapple-fruit-buah-nanas-260nw-2270694407_gjy5b1.jpg,Nanas,Buah - buahan,Pasar Karangploso,11500,1 kg,Pak Mulyadi
+102,https://res.cloudinary.com/dlzibdtam/image/upload/v1686490946/d0a783c8f33c884f3142643ca3f68418_m1xf3f.jpg,Buah pir,Buah - buahan,Pasar Karangploso,33000,1 kg,Toko Pak Toto
+103,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491098/Keto-Brownies-7757-1_tjyg1g.jpg,Kue bar,Makanan,Pasar Karangploso,29000,1 kg,Toko Pak Toto
+104,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491006/fresh-dragon-fruits-buah-naga-white-background-copy-space-selective-focus-image_583400-1670_zejzhl.jpg,Buah Naga,Buah - buahan,Pasar Karangploso,29500,1 kg,Toko Sembako Dwi
+105,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491028/18114_lpvavb.png,Markisa,Buah - buahan,Pasar Karangploso,20000,1 kg,Toko Sembako Dwi
+106,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491046/nutella_201-500x500_luzyvu.jpg,Selai,Bahan & Bumbu makanan,Pasar Karangploso,59000,1 kg,Toko Abi Jaya
+107,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491069/51gGgYw8ptL._AC_UF894_1000_QL80__m7seva.jpg,Teh,Bahan & Bumbu makanan,Pasar Landungsari,12000,Bungkus,Toko Budiman
+108,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491091/s-l960_jyq7ia.jpg,Bubuk puding,Bahan & Bumbu makanan,Pasar Landungsari,24500,500 gram,Toko Budiman
+109,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491115/download_eqlwip.jpg,Kelapa,Buah - buahan,Pasar Karangploso,60000,1 kg,Toko Pak Toto
+110,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491128/8938501920126__69505.1591418061_grande_xfmcne.jpg,Beras,Bahan & Bumbu makanan,Pasar Karangploso,12500,1 kg,Toko Abi Jaya
+111,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491141/s-l1600_tmv38g.jpg,Mie instan,Bahan & Bumbu makanan,Pasar Landungsari,3500,pcs,Toko Budiman
+112,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491159/61E-P7kHmlL_vybb4v.jpg,Tepung terigu,Bahan & Bumbu makanan,Pasar Landungsari,12500,1 kg,Toko Budiman
+113,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491405/372034-01_jemyso.jpg,Tepung tapioka,Bahan & Bumbu makanan,Pasar Karangploso,7000,500 gr,Toko Pak Toto
+114,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491202/ada-jualan-lauk-pauk_fmpvik.jpg,Makanan Matang,Makanan,Pasar Landungsari,-,-,Toko Anggun
+115,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491193/CSRGULAKASAR_2_tlj8ij.jpg,Gula,Bahan & Bumbu makanan,Pasar Karangploso,16000,1 kg,Toko Abi Jaya
+116,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491239/Garam-putih-mesti-300x300_oktgw6.gif,Garam,Bahan & Bumbu makanan,Pasar Landungsari,2200,250 gr,Toko Sejahtera
+117,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491230/data__30561.1632900524_lhrusi.jpg,Penyedap rasa,Bahan & Bumbu makanan,Pasar Karangploso,13000,250 gr,Pak Mulyadi
+118,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491406/8070505_35425f1_1653368100_iz6thg.jpg,Tepung panir,Bahan & Bumbu makanan,Pasar Karangploso,21000,1 kg,Toko Sembako Dwi
+119,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491263/006173-1-1_0fc287f2-f981-468c-8967-fa0d611a696b_600x600_crop_center_nk9unb.jpg,Tepung beras,Bahan & Bumbu makanan,Pasar Landungsari,16000,1 kg,Toko Sejahtera
+120,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491270/618LrdJOklL_swmdn9.jpg,Bubuk lada,Bahan & Bumbu makanan,Pasar Karangploso,500,1 kg,Pak Mulyadi
+121,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491284/pasuruanindonesianovember-17th2022sunco-brand-cooking-oil-600w-2247866641_rb13cx.jpg,Minyak goreng,Bahan & Bumbu makanan,Pasar Landungsari,20650,1 kg,Toko Anggun
+122,https://res.cloudinary.com/dlzibdtam/image/upload/v1686491292/13460--730x420px_uezkhs.jpg,Telur ayam,Bahan & Bumbu makanan,Pasar Landungsari,31850,1 kg,Toko Sejahtera
